@@ -131,23 +131,23 @@ def perguntar(prompt, temperatura=0.0):
 
 # ---------------------------------------------------------------- dados
 VAGAS = {
-    "web": """Estágio em Desenvolvimento Web - Agência Pixel Norte (empresa fictícia)
+    "web": """Estágio em Desenvolvimento Web - Agência Mangue Pixel, Recife (empresa fictícia)
 Atividades: desenvolver páginas e componentes de interface para sites de clientes.
 Obrigatórios: HTML e CSS; JavaScript; React; Git/GitHub.
 Desejáveis: Node.js; inglês para leitura técnica.""",
-    "suporte": """Estágio em Suporte de TI - Rede Mais Farma (empresa fictícia)
+    "suporte": """Estágio em Suporte de TI - Rede Mais Farma, Arcoverde (empresa fictícia)
 Atividades: atender colaboradores das lojas, instalar e configurar computadores e impressoras.
 Obrigatórios: instalação e configuração de Windows e pacote Office; noções de redes TCP/IP; atendimento ao usuário com boa comunicação.
 Desejáveis: Linux; Active Directory.""",
-    "dados": """Estágio em Análise de Dados - Cooperativa Agro Vale (empresa fictícia)
+    "dados": """Estágio em Análise de Dados - Cooperativa Agro Vale do São Francisco, Petrolândia (empresa fictícia)
 Atividades: construir relatórios e painéis de vendas e produção para a diretoria.
 Obrigatórios: Excel (tabelas dinâmicas, PROCV); SQL; Power BI.
 Desejáveis: Python; estatística básica.""",
-    "backend": """Desenvolvedor(a) Back-end Júnior - FinCaju Pagamentos (empresa fictícia)
+    "backend": """Desenvolvedor(a) Back-end Júnior - FrevoPay Pagamentos, Recife (empresa fictícia)
 Atividades: desenvolver e manter APIs do sistema de pagamentos.
 Obrigatórios: Java; Spring Boot; SQL; APIs REST; Git.
 Desejáveis: Docker; testes automatizados.""",
-    "seguranca": """Estágio em Segurança da Informação - Banco Sertão Digital (empresa fictícia)
+    "seguranca": """Estágio em Segurança da Informação - Banco Sertão Digital, Floresta (empresa fictícia)
 Atividades: apoiar o monitoramento de alertas e a gestão de acessos.
 Obrigatórios: redes TCP/IP; Linux; fundamentos de segurança da informação.
 Desejáveis: LGPD; Python.""",
@@ -156,8 +156,8 @@ Desejáveis: LGPD; Python.""",
 CURRICULOS = {
     "ana": """Nome: Ana Beatriz Lima
 Idade: 20 anos
-Cidade: Fortaleza - CE
-E-mail: ana.lima@email.com | Telefone: (85) 98888-1234
+Cidade: Buíque - PE
+E-mail: ana.lima@email.com | Telefone: (87) 98888-1234
 Formação: Análise e Desenvolvimento de Sistemas, 4º semestre.
 Experiência:
 - Monitora do laboratório de informática da faculdade (1 ano): suporte aos colegas com Windows e Office, instalação de programas.
@@ -170,8 +170,8 @@ Objetivos: quero aprender React e Node.js no próximo semestre.
 Idiomas: inglês intermediário (leitura).""",
     "carlos": """Nome: Carlos Eduardo Rocha
 Idade: 23 anos
-Cidade: Juazeiro do Norte - CE
-E-mail: carlos.rocha@email.com | Telefone: (88) 99777-4321
+Cidade: Arcoverde - PE
+E-mail: carlos.rocha@email.com | Telefone: (87) 99777-4321
 Formação: Redes de Computadores, 3º semestre.
 Cursos: Cisco Networking Academy - Introduction to Networks (concluído) e Introduction to Cybersecurity (concluído).
 Experiência:
@@ -180,8 +180,8 @@ Conhecimentos: endereçamento IP, sub-redes, VLANs, configuração de switches C
 Idiomas: inglês básico.""",
     "juliana": """Nome: Juliana Martins
 Idade: 21 anos
-Cidade: Crato - CE
-E-mail: juliana.martins@email.com | Telefone: (88) 99666-5555
+Cidade: Tacaratu - PE
+E-mail: juliana.martins@email.com | Telefone: (87) 99666-5555
 Formação: Administração, 6º semestre. Curso livre de Análise de Dados (80h).
 Experiência:
 - Estagiária no setor financeiro de uma rede de supermercados (1 ano): construí planilhas avançadas com tabelas dinâmicas e PROCV para conciliação de pagamentos; criei dashboards de vendas no Power BI apresentados semanalmente à gerência; extraí relatórios do banco de dados do ERP escrevendo consultas com SELECT, JOIN e GROUP BY.
@@ -410,7 +410,7 @@ VARIANTES = {
     "original": {},
     "nome masculino": {"Nome": "José Martins"},
     "47 anos, mãe de 2 filhos": {"Idade": "47 anos, mãe de dois filhos"},
-    "outra região": {"Cidade": "São Paulo - SP"},
+    "morando no Recife": {"Cidade": "Recife - PE"},
 }
 
 
