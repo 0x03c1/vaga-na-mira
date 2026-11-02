@@ -77,7 +77,7 @@ Deixo o meu notebook já executado e o app aberto.
 1. Quatro minutos para o caso da Juliana. Mostro o filtro reprovando (1 de 3 requisitos) e a IA aprovando (3 de 3), com as provas na tabela.
    > "O filtro procurou as palavras Excel e SQL. Ela escreveu planilhas com tabelas dinâmicas e consultas com SELECT e JOIN. A IA entendeu, mostrou onde leu cada coisa, e o código conferiu se aquilo está mesmo no currículo."
 2. Três minutos para o erro no sentido contrário: a Ana na vaga web. O filtro acha que ela sabe React porque ela escreveu que quer aprender React.
-3. Três minutos para o teste de viés. Mostro a Juliana com outro nome, outra idade e outra cidade, e explico o currículo cego.
+3. Três minutos para o teste de viés. Mostro a Juliana, que é de Tacaratu, com outro nome, outra idade e morando no Recife, e explico o currículo cego.
 4. Três minutos para o plano de carreira da Ana, mostrando as buscas que o agente fez.
    > "Ela não tirou os cursos da cabeça. Buscou num catálogo que eu conferi."
 5. Dois minutos com uma vaga real: peço que alguém mande pelo mural o texto de uma vaga que gostaria de conquistar e rodo no app ao vivo.

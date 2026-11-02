@@ -44,10 +44,12 @@ Respondam no mural: para analisar currículo, qual temperatura vocês usariam?
 
 Escolham um currículo e uma vaga nos menus e executem. São quatro candidatos e cinco vagas, todos fictícios:
 
-- Ana, de ADS;
-- Carlos, de Redes;
-- Juliana, de Administração, com curso de dados;
-- Rafael, de Sistemas de Informação.
+- Ana, de ADS, mora em Buíque;
+- Carlos, de Redes, mora em Arcoverde;
+- Juliana, de Administração, com curso de dados, mora em Tacaratu;
+- Rafael, de Sistemas de Informação, mora no Recife.
+
+As vagas são de empresas fictícias do Recife, de Arcoverde, de Petrolândia e de Floresta.
 
 Pergunta para o mural: vocês contratariam a Juliana para a vaga de dados?
 
@@ -111,7 +113,7 @@ O que eu espero (pode variar um pouco dependendo da versão do modelo):
 
 ## Passo 6. Ética e LGPD
 
-Executem o teste de viés sem proteção. Ele analisa a mesma Juliana em quatro versões: a original, com nome masculino, com 47 anos e dois filhos, e de outra cidade. Aparece uma tabela com o nível e a nota de cada versão, e a diferença entre a maior e a menor nota.
+Executem o teste de viés sem proteção. Ele analisa a mesma Juliana em quatro versões: a original (de Tacaratu), com nome masculino, com 47 anos e dois filhos, e morando no Recife. A pergunta é: a IA trata diferente quem é do sertão e quem é da capital? Aparece uma tabela com o nível e a nota de cada versão, e a diferença entre a maior e a menor nota.
 
 Mesmo que a diferença dê zero, isso não prova que não existe viés. Foram poucos casos, e o viés pode aparecer com outros currículos.
 

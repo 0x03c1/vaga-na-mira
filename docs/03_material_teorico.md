@@ -25,9 +25,11 @@ Notas: começo mostrando o resultado final antes de qualquer teoria. Fica mais f
 | usam sistemas que filtram currículos automaticamente | precisam ser entendidos por pessoas e por máquinas |
 | procuram gente que saiba usar e construir com IA | precisam comprovar o que sabem, não só listar |
 
-Notas: o relatório *Future of Jobs 2025*, do Fórum Econômico Mundial, coloca IA e dados entre as habilidades que mais crescem. Isso vale para quem é de desenvolvimento, redes, segurança, dados ou suporte. Também vale para quem é de gestão, porque quem decide comprar e usar IA precisa entender os riscos.
+Notas: o relatório *Future of Jobs 2025*, do Fórum Econômico Mundial, coloca IA e dados entre as habilidades que mais crescem. Isso vale para quem é de desenvolvimento, redes, segurança, dados ou suporte. Também vale para quem é de gestão, porque quem decide comprar e usar IA precisa entender os riscos. E não precisa ir para longe: o Recife tem o Porto Digital, um dos maiores parques tecnológicos do país, e as empresas do sertão também estão contratando gente que entende de dados e tecnologia.
 
 ## Slide 4. O filtro do RH
+
+A Juliana estuda Administração, mora em Tacaratu e se candidatou a um estágio em dados numa cooperativa de Petrolândia.
 
 | A vaga pede | A Juliana escreveu | O filtro achou? |
 |---|---|:-:|
