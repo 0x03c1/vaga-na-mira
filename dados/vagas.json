@@ -1,0 +1,7 @@
+{
+  "web": "Estágio em Desenvolvimento Web - Agência Pixel Norte (empresa fictícia)\nAtividades: desenvolver páginas e componentes de interface para sites de clientes.\nObrigatórios: HTML e CSS; JavaScript; React; Git/GitHub.\nDesejáveis: Node.js; inglês para leitura técnica.",
+  "suporte": "Estágio em Suporte de TI - Rede Mais Farma (empresa fictícia)\nAtividades: atender colaboradores das lojas, instalar e configurar computadores e impressoras.\nObrigatórios: instalação e configuração de Windows e pacote Office; noções de redes TCP/IP; atendimento ao usuário com boa comunicação.\nDesejáveis: Linux; Active Directory.",
+  "dados": "Estágio em Análise de Dados - Cooperativa Agro Vale (empresa fictícia)\nAtividades: construir relatórios e painéis de vendas e produção para a diretoria.\nObrigatórios: Excel (tabelas dinâmicas, PROCV); SQL; Power BI.\nDesejáveis: Python; estatística básica.",
+  "backend": "Desenvolvedor(a) Back-end Júnior - FinCaju Pagamentos (empresa fictícia)\nAtividades: desenvolver e manter APIs do sistema de pagamentos.\nObrigatórios: Java; Spring Boot; SQL; APIs REST; Git.\nDesejáveis: Docker; testes automatizados.",
+  "seguranca": "Estágio em Segurança da Informação - Banco Sertão Digital (empresa fictícia)\nAtividades: apoiar o monitoramento de alertas e a gestão de acessos.\nObrigatórios: redes TCP/IP; Linux; fundamentos de segurança da informação.\nDesejáveis: LGPD; Python."
+}
